@@ -9,3 +9,8 @@ nimcache
 *.pdb
 *.ilk
 .*
+
+# testament
+/tests/megatest.nim
+outputGotten.txt
+/testresults
