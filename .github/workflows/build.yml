@@ -12,4 +12,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: jiro4989/setup-nim-action@v1
-    - run: testament all
+    - run: testament  all
+    - run: testament  c main --gc:orc

@@ -12,12 +12,12 @@ This library allows to generate a SoA (Structure of Arrays) type from a Nim obje
 
 With nimble:
 ```
-nimble install https://github.com/guibar64/aossoa
+nimble install aossoa
 ```
 
 Or in a .nimble file put the line:
 ```
-requires "https://github.com/guibar64/aossoa"
+requires "aossoa"
 ```
 
 

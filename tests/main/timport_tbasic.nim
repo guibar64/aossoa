@@ -1,5 +1,5 @@
 discard """
-  matrix: "--gc:refc; --gc:orc"
+joinable: false
 """
 import ./tbasic
 
